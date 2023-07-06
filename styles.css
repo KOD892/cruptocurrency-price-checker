@@ -1,0 +1,19 @@
+body{
+    color: black !important;
+}
+nav a{
+    color: black !important;
+}
+footer{
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 100;
+    width: 100%;
+}
+.fav {
+    width: 1rem;
+}
+.container{
+    width: 90% !important;
+}
