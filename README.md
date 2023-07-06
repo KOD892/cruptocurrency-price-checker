@@ -1,1 +1,1 @@
-# cruptocurrency-price-checker
+# cryptocurrency-price-checker
